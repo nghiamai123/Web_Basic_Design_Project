@@ -126,10 +126,10 @@ a{
     /* color: var(--light); */
 }
 
-.room-item .position-absolute {
+/* .room-item .position-absolute {
     background-color: var(--secondary);
     color: var(--dark);
-}
+} */
 
 .room-item .fa-star {
     color: var(--primary);
@@ -138,5 +138,12 @@ a{
 
 .room-item a.btn-primary {
     background-color: var(--primary);
+    color: var(--light);
+}
+/* footer */
+/* .section-title{
+
+} */
+.contact-item{
     color: var(--light);
 }
